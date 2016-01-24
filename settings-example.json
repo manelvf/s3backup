@@ -1,0 +1,10 @@
+{
+    "S3": {
+        "URL": "https://s3.eu-central-1.amazonaws.com/<bucket-name>",
+        "host":"s3-eu-central-1.amazonaws.com",
+        "bucket": "bucket-name",
+	"region": "eu-central-1"
+    },
+    "prefix": "<name->",
+    "backup-file": "full-path-of-backup-file"
+}
