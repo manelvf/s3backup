@@ -3,7 +3,8 @@
         "URL": "https://s3.eu-central-1.amazonaws.com/<bucket-name>",
         "host":"s3-eu-central-1.amazonaws.com",
         "bucket": "bucket-name",
-	"region": "eu-central-1"
+	"region": "eu-central-1",
+	"RR": true
     },
     "prefix": "<name->",
     "backup-file": "full-path-of-backup-file"
